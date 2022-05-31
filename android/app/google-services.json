@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585192868380",
+    "project_id": "game-shop-13798",
+    "storage_bucket": "game-shop-13798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585192868380:android:10f0cc25cf67ac0f8c2dd9",
+        "android_client_info": {
+          "package_name": "com.example.posttest7_1915026010_muhammadrezky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585192868380-dep97bos442460rvuvfp4ibsaspf1p0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChqPOPU30fPjh1oqmmSx8KC9kP2ZAIDRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585192868380-dep97bos442460rvuvfp4ibsaspf1p0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
